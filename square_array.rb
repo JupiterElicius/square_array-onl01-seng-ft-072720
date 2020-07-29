@@ -9,3 +9,4 @@ square_array.each do |numbers|
     break
   end
 end
+end
