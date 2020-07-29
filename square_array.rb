@@ -3,4 +3,5 @@ new_array = []
 numbers.each do |numbers|
   new_array = numbers ** 2 
   end
+  new_array
 end
